@@ -1,0 +1,56 @@
+.txt{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
+    border: 5px solid rgb(255, 255, 255);
+    width: 70%;
+    margin: 100px 180px;
+    font-size: 20px;
+
+}
+body{
+    background-color: #e2cec5;
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 400px;
+    width: 750px;
+    border-radius: 25px;
+}
+.h22{
+    text-align: left;
+    padding: 19px;
+    font-size: 15px;
+}
+.pp{
+    text-align: left;
+    padding: 19px;
+}
+.ingredientes{
+    text-align: left;
+    padding: 19px;
+    font-size: 15px;
+}
+.instru{
+    text-align: left;
+    padding: 19px;
+    font-size: 15px;
+}
+.color{
+    color: #974e05;
+}
+.klk{
+    color: #593954;
+    font-size: 20px;
+}
+
+
+
+
